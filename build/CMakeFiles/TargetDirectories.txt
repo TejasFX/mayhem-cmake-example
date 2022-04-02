@@ -1,3 +1,0 @@
-/media/sf_HackathonFiles/mayhem-cmake-example/build/CMakeFiles/rebuild_cache.dir
-/media/sf_HackathonFiles/mayhem-cmake-example/build/CMakeFiles/edit_cache.dir
-/media/sf_HackathonFiles/mayhem-cmake-example/build/CMakeFiles/fuzzme.dir
